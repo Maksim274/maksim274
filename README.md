@@ -1,5 +1,11 @@
-# 💫 About Me:
-# 👋 Hi there! I'm [Your Name]<br><br>I'm an **AI Manager** passionate about combining data, automation, and intelligent systems to solve real-world problems.<br><br>🎓 I hold a degree in **Economics** and **Computer Science** from the **Technological University of Tajikistan**.<br><br>🚀 **Currently Working On**:<br>- AI-driven projects and experiments<br>- Learning **DevOps** (Docker, Kubernetes, CI/CD)<br>- Improving my **Software Engineering** skills<br><br>🧠 **Interests**:<br>- Artificial Intelligence & Machine Learning<br>- Scalable System Design<br>- Cloud Infrastructure<br>- Automation & Optimization<br><br>🛠 **Tech Stack**:<br>- **Languages**: Python, JavaScript, Bash<br>- **Tools**: Git, Docker, Linux, Postman<br>- **AI/ML**: PyTorch, TensorFlow, Scikit-learn<br>- **Learning**: AWS, Azure, Kubernetes, Terraform<br><br>📫 **Let's Connect**  <br>Feel free to reach out or collaborate on any interesting projects!<br><br>---<br><br>
+# 👋 Hi I'm Maksim <br><br>
+
+I'm an **AI Manager** passionate about combining data, automation, and intelligent systems to solve real-world problems.<br><br>
+🎓 I hold a degree in **Economics** and **Computer Science** from the **Technological University of Tajikistan**.<br><br>
+🚀 **Currently Working On**:<br>- AI-driven projects and experiments<br>- Learning **DevOps** (Docker, Kubernetes, CI/CD)<br>- Improving my **Software Engineering** skills<br><br>
+🧠 **Interests**:<br>- Artificial Intelligence & Machine Learning<br>- Scalable System Design<br>- Cloud Infrastructure<br>- Automation & Optimization<br><br>🛠 **Tech Stack**:<br>- 
+**Languages**: Python, JavaScript, Bash<br>- **Tools**: Git, Docker, Linux, Postman<br>- **AI/ML**: PyTorch, TensorFlow, Scikit-learn<br>- **Learning**: AWS, Azure, Kubernetes, Terraform<br><br>
+📫 **Let's Connect**  <br>Feel free to reach out or collaborate on any interesting projects!<br><br>---<br><br>
 
 
 ## 🌐 Socials:
